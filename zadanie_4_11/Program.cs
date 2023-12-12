@@ -36,9 +36,6 @@ namespace zadania
             {
                 Console.WriteLine(ex.Message);
             }
-
-            Console.ReadLine();
-
         }
     }
 }
