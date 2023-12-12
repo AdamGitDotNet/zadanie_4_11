@@ -12,7 +12,7 @@ namespace zadania
                 Console.WriteLine("Podaj liczbę");
                 do
                 {
-                    if (Int32.TryParse(Console.ReadLine(), out int wynik))
+                    if (float.TryParse(Console.ReadLine(), out float wynik))
                     {
                         if (wynik % 2 == 0)
                         {
