@@ -30,7 +30,6 @@ namespace zadania
                         Console.WriteLine($"Podałeś niepoprawne dane. Spróbuj jeszcze raz");
                     }
                 }
-
                 while (!liczbaParzysta);
             }
             catch (Exception ex)
