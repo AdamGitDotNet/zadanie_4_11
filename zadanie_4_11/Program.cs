@@ -18,7 +18,6 @@ namespace zadania
                         {
                             Console.WriteLine("Liczba parzysta");
                             liczbaParzysta = true;
-
                         }
                         else
                         {
